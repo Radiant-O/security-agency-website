@@ -54,6 +54,31 @@
             </p>
             <p class="safe_btn">Contact Us</p>
         </div>
+        <div class="safe_box_idea">
+            <div class="safe_idea">
+                <p class="safe_top">
+                    Lorem ipsum dolor sit amet
+                </p>
+                <p class="safe_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam temporibus doloremque sint.</p>
+                <p><img src="../assets/icons/safe_idea.png" /></p>
+            </div>
+            <img src="../assets/icons/safe_bg1.png" class="safe_bg">
+            <div class="safe_idea">
+                <p class="safe_top">
+                    Lorem ipsum dolor sit amet
+                </p>
+                <p class="safe_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam temporibus doloremque sint.</p>
+                <p><img src="../assets/icons/safe_officer.png" /></p>
+            </div>
+            <img src="../assets/icons/safe_bg.png" class="safebg">
+            <div class="safe_idea">
+                <p class="safe_top">
+                    Lorem ipsum dolor sit amet
+                </p>
+                <p class="safe_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam temporibus doloremque sint.</p>
+                <p><img src="../assets/icons/safe_cctv.png" /></p>
+            </div>
+        </div>
     </div>
   </section>
 </template>

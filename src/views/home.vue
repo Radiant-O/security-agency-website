@@ -1,6 +1,8 @@
 <template>
   <Navbar/>
   <Hero/>
+  <Homepart/>
+  <Service/>
   
 </template>
 
